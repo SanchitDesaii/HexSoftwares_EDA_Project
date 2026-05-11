@@ -75,12 +75,3 @@ The Iris dataset contains measurements of iris flowers from three different spec
 - Visualizations helped identify feature relationships and distributions effectively.
 
 ---
-
-## Project Structure
-
-```text
-EDA_on_Iris_Dataset/
-│
-├── EDA_on_Iris_Dataset.ipynb
-├── Iris.csv
-└── README.md
